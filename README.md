@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yusuf Ridwan!
+# 👋 Hi, I'm Ridwan Yusuf
 
 ### Data Enthusiast 
 
