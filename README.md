@@ -2,7 +2,7 @@
 
 ### Data Scientist | Python and SQL Enthusiast
 
-Welcome to my GitHub! I'm passionate about solving problems using data science, machine learning, and advanced analytics. My focus is on building intelligent systems that help drive decision-making in various fields. I enjoy working with tools like Python, SQL, Power BI, and more.
+Welcome to my GitHub! I'm passionate about solving problems using data science, machine learning, and advanced analytics. My focus is on building solutions that help drive decision-making in various fields. I enjoy working with Python, SQL, Power BI, and more.
 
 ![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=GentRoyal&show_icons=true&theme=radical)
 
