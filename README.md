@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yusuf Ridwan!
 
-### Data Scientist | Python and SQL Enthusiast
+### Data Enthusiast 
 
 I'm passionate about solving problems using data science, machine learning, and advanced analytics. My focus is on building solutions that help drive decision-making in various fields. I enjoy working with Python, SQL, Power BI, and more.
 
