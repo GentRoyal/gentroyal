@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ridwan Yusuf
 
-### Data Enthusiast 
+### Data Scientist || Python || SQL || PowerBI || Open to Msc Opportunities in Data Science
 
 I'm passionate about solving problems using data science, machine learning, and advanced analytics. My focus is on building solutions that help drive decision-making in various fields. I enjoy working with Python, SQL, Power BI, and more.
 
@@ -15,6 +15,7 @@ I'm passionate about solving problems using data science, machine learning, and 
 - 🔭 **Current Projects:**
   - [DailySQL](https://github.com/GentRoyal/DailySQL) - My daily SQL practice repository.
   - [DailyPython](https://github.com/GentRoyal/DailyPython) - My daily Python learning journey.
+  - [PythonPackages](https://github.com/GentRoyal/mypackage) - Building Python Packages.
 - 💬 **Ask me about:** Data science, SQL queries, machine learning, and Python scripting.
 - 🤔 **Fun fact:** I love solving real-world problems with data and I'm a huge advocate for lifelong learning.
 
