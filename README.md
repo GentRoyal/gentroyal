@@ -49,6 +49,6 @@ A journal of my Python coding tasks and exercises, where I explore various conce
 ## 📫 Let's Connect
 
 - **LinkedIn**: [Yusuf Ridwan](https://www.linkedin.com/in/yusufridwan)
-- **Twitter**: [@Yusuf__Ridwan](https://twitter.com/Yusuf__Ridwan)
+- **Twitter**: [@Yusuf__Ridwan](https://twitter.com/RidwanInsights)
 
 ---
