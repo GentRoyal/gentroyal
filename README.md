@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ridwan Yusuf
 
-### Data Scientist || Python || SQL || PowerBI || Open to Msc Opportunities in Data Science
+### Data Scientist | Python, SQL, ML, Power BI | Building Data-Driven Solutions
 
 I'm passionate about solving problems using data science, machine learning, and advanced analytics. My focus is on building solutions that help drive decision-making in various fields. I enjoy working with Python, SQL, Power BI, and more.
 
