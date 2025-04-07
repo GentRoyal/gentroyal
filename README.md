@@ -9,15 +9,12 @@ I'm passionate about solving problems using data science, machine learning, and 
 ---
 
 ## 🚀 About Me
-
-- 🌱 **Currently learning:** Python, SQL, Data Science, and Business Analytics.
-- 🎓 **Education:** BSc in Computer Science (In Progress) | ALX Data Science Cohort 2 (In progress)
 - 🔭 **Current Projects:**
   - [DailySQL](https://github.com/GentRoyal/DailySQL) - My daily SQL practice repository.
   - [DailyPython](https://github.com/GentRoyal/DailyPython) - My daily Python learning journey.
   - [PythonPackages](https://github.com/GentRoyal/mypackage) - Building Python Packages.
 - 💬 **Ask me about:** Data science, SQL queries, machine learning, and Python scripting.
-- 🤔 **Fun fact:** I love solving real-world problems with data and I'm a huge advocate for lifelong learning.
+- 🤔 **Fun fact:** I'm a huge advocate for lifelong learning.
 
 ---
 
