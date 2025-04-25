@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/DATA%20SCIENCE-blue?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/AI%20FOR%20HEALTH-green?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/FINANCE%20ANALYTICS-purple?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Practical-red?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/MACHINE%20LEARNING-red?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
@@ -44,7 +44,8 @@ Over the years, I’ve contributed to impactful dashboards, predictive models, a
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
+
 </p>
 
 ---
@@ -56,7 +57,7 @@ I’m open to:
 - 🧠 Collaborative projects on data science, ML, and real-world problem-solving
 - 🎤 Speaking, mentoring, or writing about applied data science and career growth
 
-📬 Reach me: **[yusufridwan6@gmail.com](mailto:yusufridwan6@gmail.com)**  
+📬 Reach me: **[yusufridwan6@gmail.com](mailto:yosufridwan@gmail.com)**  
 🔗 **[LinkedIn](https://www.linkedin.com/in/yusufridwan)** | **[Twitter](https://twitter.com/RidwanInsights)**
 
 ---
