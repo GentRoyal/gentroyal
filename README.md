@@ -1,51 +1,64 @@
-# 👋 Hi, I'm Ridwan Yusuf
+<h1 align="center">Hi, I'm Ridwan Yusuf 👋</h1>
 
-### Data Scientist | Python, SQL, ML, Power BI | Building Data-Driven Solutions
+<p align="center">
+  <i>Data Scientist | Python, SQL, ML, Power BI | Building Data-Driven Solutions</i>
+</p>
 
-I'm passionate about solving problems using data science, machine learning, and advanced analytics. My focus is on building solutions that help drive decision-making in various fields. I enjoy working with Python, SQL, Power BI, and more.
-
-![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=GentRoyal&show_icons=true&theme=radical)
-
----
-
-## 🚀 About Me
-- 🔭 **Current Projects:**
-  - [DailySQL](https://github.com/GentRoyal/DailySQL) - My daily SQL practice repository.
-  - [DailyPython](https://github.com/GentRoyal/DailyPython) - My daily Python learning journey.
-  - [PythonPackages](https://github.com/GentRoyal/mypackage) - Building Python Packages.
-- 💬 **Ask me about:** Data science, SQL queries, machine learning, and Python scripting.
-- 🤔 **Fun fact:** I'm a huge advocate for lifelong learning.
+<p align="center">
+  <img src="https://img.shields.io/badge/DATA%20SCIENCE-blue?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20FOR%20HEALTH-green?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/FINANCE%20ANALYTICS-purple?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Practical-red?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
-## 🛠 Tech Stack
+## 👨‍💻 Who Am I?
 
-- **Languages**: Python, SQL
-- **Databases**: MySQL, SQLite
-- **Tools**: Power BI, Jupyter Notebooks, Git, Visual Studio Code
-- **Frameworks**: Pandas, NumPy, Scikit-learn
+I'm a data scientist with a strong background in computer science and hands-on experience applying data to solve real-world problems—especially in health and finance.
 
----
+Over the years, I’ve contributed to impactful dashboards, predictive models, and research-inspired tech tools.
 
-## 📈 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GentRoyal&layout=compact&theme=radical)
+**My current goals:**
+- Build intelligent ML models for health and financial applications  
+- Translate data insights into strategic decision-making  
+- Work on open-ended research and collaborative tech projects  
 
 ---
 
-## 📚 Projects
+## 🚀 Current Projects
 
-### [DailySQL](https://github.com/GentRoyal/DailySQL)
-A collection of my daily SQL exercises, tackling everything from basic queries to advanced database operations.
-
-### [DailyPython](https://github.com/GentRoyal/DailyPython)
-A journal of my Python coding tasks and exercises, where I explore various concepts and solve real-world problems.
+- [**CareWomb**](https://carewomb.streamlit.app/) – *Streamlit app helping expectant mothers track symptoms and gain insights*
+- [**PythonPackages**](https://github.com/GentRoyal/mypackage) – *Creating custom Python packages for automation and reuse*
 
 ---
 
-## 📫 Let's Connect
+## 🧰 Tech Stack
 
-- **LinkedIn**: [Yusuf Ridwan](https://www.linkedin.com/in/yusufridwan)
-- **Twitter**: [@RidwanInsights](https://twitter.com/RidwanInsights)
+**Languages & Tools:**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" />
+</p>
 
 ---
+
+## 🤝 Let’s Collaborate
+
+I’m open to:
+- 🤝 Research or internship roles in health + finance analytics
+- 🧠 Collaborative projects on data science, ML, and real-world problem-solving
+- 🎤 Speaking, mentoring, or writing about applied data science and career growth
+
+📬 Reach me: **[yusufridwan6@gmail.com](mailto:yusufridwan6@gmail.com)**  
+🔗 **[LinkedIn](https://www.linkedin.com/in/yusufridwan)** | **[Twitter](https://twitter.com/RidwanInsights)**
+
+---
+
+> *“I’m here to build with data—because insight is only valuable when it leads to impact.”*
