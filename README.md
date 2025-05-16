@@ -37,7 +37,6 @@ Over the years, I’ve contributed to impactful dashboards, predictive models, a
 ## 🧰 Tech Stack
 
 **Languages & Tools:**
-
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
