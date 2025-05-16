@@ -30,6 +30,7 @@ Over the years, I’ve contributed to impactful dashboards, predictive models, a
 
 - [**CareWomb**](https://carewomb.streamlit.app/) – *Streamlit app helping expectant mothers track symptoms and gain insights*
 - [**PythonPackages**](https://github.com/GentRoyal/mypackage) – *Creating custom Python packages for automation and reuse*
+- [**Stock ETL Project**](https://github.com/GentRoyal/loan-etl-pipeline) - *- Building and deploying machine learning pipelines and APIs for Stock Data.*
 
 ---
 
