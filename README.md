@@ -58,7 +58,7 @@ I’m open to:
 - 🎤 Speaking, mentoring, or writing about applied data science and career growth
 
 📬 Reach me: **[yosufridwan@gmail.com](mailto:yosufridwan@gmail.com)**  
-🔗 **[LinkedIn](https://www.linkedin.com/in/yusufridwan)** | **[Twitter](https://twitter.com/RidwanInsights)**
+🔗 **[LinkedIn](https://www.linkedin.com/in/yusufridwan)** | **[Twitter](https://twitter.com/RidwanYusuf_)**
 
 ---
 
